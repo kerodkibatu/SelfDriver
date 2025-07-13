@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1716160011",
+        "python_version": "3.9.13 (main, Oct 13 2022, 21:23:06) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\Kerod\\miniconda3\\envs\\unity-ml\\Scripts\\mlagents-learn",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.3.0+cu121",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1716160016"
+    },
+    "total": 4.9929498,
+    "count": 1,
+    "self": 0.003256900000000229,
+    "children": {
+        "run_training.setup": {
+            "total": 0.017609999999999904,
+            "count": 1,
+            "self": 0.017609999999999904
+        },
+        "TrainerController.start_learning": {
+            "total": 4.9720829,
+            "count": 1,
+            "self": 0.00039930000000065746,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 4.971673,
+                    "count": 1,
+                    "self": 4.971673
+                },
+                "trainer_threads": {
+                    "total": 7.000000010748408e-07,
+                    "count": 1,
+                    "self": 7.000000010748408e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 9.899999998452813e-06,
+                    "count": 1,
+                    "self": 9.899999998452813e-06
+                }
+            }
+        }
+    }
+}

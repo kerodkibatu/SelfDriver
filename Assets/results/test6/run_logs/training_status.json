@@ -1,0 +1,65 @@
+{
+    "DriverAgent": {
+        "checkpoints": [
+            {
+                "steps": 35499947,
+                "file_path": "results\\test6\\DriverAgent\\DriverAgent-35499947.onnx",
+                "reward": 25.04632140033775,
+                "creation_time": 1716272263.77939,
+                "auxillary_file_paths": [
+                    "results\\test6\\DriverAgent\\DriverAgent-35499947.pt"
+                ]
+            },
+            {
+                "steps": 35999936,
+                "file_path": "results\\test6\\DriverAgent\\DriverAgent-35999936.onnx",
+                "reward": 33.87188158830007,
+                "creation_time": 1716272707.1434283,
+                "auxillary_file_paths": [
+                    "results\\test6\\DriverAgent\\DriverAgent-35999936.pt"
+                ]
+            },
+            {
+                "steps": 36499968,
+                "file_path": "results\\test6\\DriverAgent\\DriverAgent-36499968.onnx",
+                "reward": 26.180892090002697,
+                "creation_time": 1716273149.7230327,
+                "auxillary_file_paths": [
+                    "results\\test6\\DriverAgent\\DriverAgent-36499968.pt"
+                ]
+            },
+            {
+                "steps": 36999957,
+                "file_path": "results\\test6\\DriverAgent\\DriverAgent-36999957.onnx",
+                "reward": 14.704037214026732,
+                "creation_time": 1716273594.6241672,
+                "auxillary_file_paths": [
+                    "results\\test6\\DriverAgent\\DriverAgent-36999957.pt"
+                ]
+            },
+            {
+                "steps": 37156604,
+                "file_path": "results\\test6\\DriverAgent\\DriverAgent-37156604.onnx",
+                "reward": 25.534889204748744,
+                "creation_time": 1716273737.0682344,
+                "auxillary_file_paths": [
+                    "results\\test6\\DriverAgent\\DriverAgent-37156604.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 37156604,
+            "file_path": "results\\test6\\DriverAgent.onnx",
+            "reward": 25.534889204748744,
+            "creation_time": 1716273737.0682344,
+            "auxillary_file_paths": [
+                "results\\test6\\DriverAgent\\DriverAgent-37156604.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.0+cu121"
+    }
+}
