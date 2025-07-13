@@ -1,3 +1,7 @@
+<a href="https://youtu.be/NqDyxk_iiCg " target="_blank">
+  <img width="500" alt="Project Showcase" src="https://github.com/user-attachments/assets/cd2f9c7e-c730-46a2-bbd1-743d37b796dc " />
+</a>
+
 # Self-Driving Car Simulation with Unity ML-Agents
 
 This project implements a self-driving car simulation environment using Unity and ML-Agents, where autonomous vehicles learn to navigate to targets while avoiding obstacles.
